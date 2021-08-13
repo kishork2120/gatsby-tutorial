@@ -8,7 +8,6 @@ const style = {
   }
 }
 
-// markup
 const IndexPage = ({ data }) => {
   return (
     <React.Fragment>
